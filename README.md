@@ -18,7 +18,7 @@ This is the Holmusk Android developer challenge. The rules of the challenge are 
 * You should implement your app to support *all* Android mobile sizes. Only one orientation is enough - we're not too fiesty on that
 * You should use Android Studio IDE and gradle based project structure
 * Because we, at Holmusk, take code organization seriously, please do ensure your source files are organized when you submit. Please do ensure that, at the minimum, you follow MVC and your code organization reflects that.
-* Please complete the code in your local repository and email the link to careers@holmusk.com
+* Please complete the code in your local repository and email the link or patch file to careers@holmusk.com
 * Please note that you will also be judged on the elegance of your code, level of abstraction and technical skills presented in the implementation. For more details, refer to the Judging Criteria section below.
 
 ## The Challenge 
